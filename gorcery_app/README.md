@@ -1,3 +1,5 @@
+<img width="1080" height="2400" alt="signup" src="https://github.com/user-attachments/assets/6dcce5ad-399d-4407-8486-fe762ed39d05" />
+<img width="1080" height="2400" alt="login" src="https://github.com/user-attachments/assets/f09891ee-4db3-4eeb-bb24-40a6aea48b7d" />
 
 # Carrot App 🥕
 
@@ -40,8 +42,7 @@ The UI was implemented based on a Figma design.
 - Dart
 - Material Design
 
-![Screen 1](./gorcery_app/screenshots/login.png)
-![Screen 2](./gorcery_app/screenshots/signup.png)
+
 
 ## 📂 Project Structure
 
