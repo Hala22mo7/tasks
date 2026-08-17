@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "grocery_app",
     "short_name": "grocery_app",
+=======
+    "name": "first_app",
+    "short_name": "first_app",
+>>>>>>> 0cb4b07a7533685b7d79da25cc76a32287bad00e
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
