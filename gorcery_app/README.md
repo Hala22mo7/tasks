@@ -1,17 +1,57 @@
-# gorcery_app
 
-A new Flutter project.
+# Carrot App 🥕
 
-## Getting Started
+A Flutter mobile application UI designed for a simple and clean authentication experience.
 
-This project is a starting point for a Flutter application.
+## 📱 Screens
 
-A few resources to get you started if this is your first Flutter project:
+### Login Screen
+- Email input
+- Password input
+- Forgot Password option
+- Login button
+- Sign Up navigation
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Sign Up Screen
+- Username input
+- Email input
+- Password input
+- Terms of Service
+- Privacy Policy
+- Sign Up button
+- Login navigation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🎨 Design
+
+The UI was implemented based on a Figma design.
+
+### Main Features
+
+- Clean and simple UI
+- Responsive Flutter layout
+- Reusable Flutter widgets
+- Login screen
+- Sign Up screen
+- Custom carrot logo
+
+## 🛠️ Technologies
+
+- Flutter
+- Dart
+- Material Design
+
+![Screen 1](./gorcery_app/screenshots/login.png)
+![Screen 2](./gorcery_app/screenshots/signup.png)
+
+## 📂 Project Structure
+
+```text
+lib/
+├── main.dart
+├── app.dart
+└── screens/
+    ├── login_screen.dart
+    └── signup_screen.dart
+
+assets/
+└── carrot.png
